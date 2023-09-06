@@ -27,4 +27,6 @@ class Animal {
         -> upload dari local repository ke remote repository
     8. git pull
         -> download dari remote repository ke local repository
+    9. git branch
+        -> untuk melihat daftar branch yang tersedia
 */
